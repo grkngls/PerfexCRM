@@ -3518,8 +3518,8 @@ $lang['contract_notes']                                                       = 
 $lang['contract_add_note']                                                    = 'Notiz hinzufügen';
 
 # Version 2.1.1
-$lang['frequency']         = 'Frequency';
-$lang['frequency_every']   = 'Every %s';
-$lang['last_invoice_date'] = 'Last Invoice Date';
-$lang['next_invoice_date'] = 'Next Invoice Date';
-$lang['enter_new_card']    = 'Enter New Card';
+$lang['frequency']         = 'Häufigkeit';
+$lang['frequency_every']   = 'Alle %s';
+$lang['last_invoice_date'] = 'Letztes Rechnungsdatum';
+$lang['next_invoice_date'] = 'Nächstes Rechnungsdatum';
+$lang['enter_new_card']    = 'Neue Karte;
