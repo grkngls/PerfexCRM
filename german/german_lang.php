@@ -1400,7 +1400,7 @@ $lang['leads_email_integration_notify_staff']                                 = 
 $lang['lead_public']                                                          = 'Öffentlich';
 # Knowledge Base
 $lang['kb_group_color']                                                       = 'Farbe';
-$lang['kb_group_order']                                                       = 'Bestellung';
+$lang['kb_group_order']                                                       = 'Reihenfolge';
 # Utilities - BULK PDF Exporter
 $lang['bulk_pdf_exporter']                                                    = 'Massen PDF Exporter';
 $lang['bulk_export_pdf_payments']                                             = 'Bezahlungen';
@@ -3431,7 +3431,7 @@ $lang['statement_credit_note_refund']                                         = 
 $lang['no_validation']                                                        = 'Keine Validierung';
 $lang['lead_unique_validation_on']                                            = 'Die Validierung für doppelten Lead auf den folgenden Feldern durchführen:';
 $lang['phonenumber_exists']                                                   = 'Telefonnummer ist bereits vorhanden';
-$lang['company_exists']                                                       = 'Firma  ist bereits vorhanden';
+$lang['company_exists']                                                       = 'Firma ist bereits vorhanden';
 $lang['website_exists']                                                       = 'Webseite ist bereits vorhanden';
 $lang['send_payment_receipt_to_client']                                       = 'Den Zahlungsbeleg an den Kunden senden';
 $lang['payment_sent_successfully']                                            = 'Der Zahlungsbeleg wurde erfolgreich versendet.';
@@ -3439,5 +3439,5 @@ $lang['payment_sent_failed']                                                  = 
 
 
 # Version 2.3.5
-$lang['tags_update_replace_warning'] = 'Some tags are not updated because the name of the tag already exist';
-$lang['attach_statement']            = 'Attach Customer Statement';
+$lang['tags_update_replace_warning']                                          = 'Einige Tags werden nicht aktualisiert, da der Name des Tags bereits vorhanden ist.';
+$lang['attach_statement']                                                     = 'Kundenaussage beifügen';
