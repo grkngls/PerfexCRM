@@ -3484,7 +3484,7 @@ $lang['save_last_order_for_tables']                             = 'Letzte Reihen
 $lang['date_created']                                           = 'Erstellungsdatum';
 
 # Version 2.0.1
-$lang['company_logo_dark']                                      = 'Company Logo Dark';
+$lang['company_logo_dark']                                      = 'dunkles Firmenlogo';
 $lang['customers_register_require_confirmation']                = 'Require registration confirmation from administrator after customer register';
 $lang['customer_requires_registration_confirmation']            = 'Requires Registration Confirmation';
 $lang['confirm_registration']                                   = 'Confirm Registration';
@@ -3498,8 +3498,8 @@ $lang['subscription_option_do_nothing'] = 'Do Nothing';
 $lang['gdpr_not_enabled'] = 'GDPR not enabled';
 $lang['enable_gdpr'] = 'Enable GDPR';
 $lang['gdpr_right_to_rectification'] = 'Right to rectification';
-$lang['test_sms_config'] = 'Test SMS Config';
-$lang['test_sms_message'] = 'Test Message';
-$lang['send_test_sms'] = 'Send Test SMS';
+$lang['test_sms_config'] = 'Test SMS Einstellungen';
+$lang['test_sms_message'] = 'Test Nachricht';
+$lang['send_test_sms'] = 'Test SMS senden';
 $lang['gdpr_short'] = 'GDPR';
 $lang['allow_non_admin_staff_to_delete_ticket_attachments'] = 'Allow non-admin staff members to delete ticket attachments';
