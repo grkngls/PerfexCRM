@@ -114,7 +114,7 @@ $lang['num_word_billion']  = 'Billion';
 $lang['num_word_trillion'] = 'Trillion';
 $lang['num_word_zillion']  = 'Zillion';
 $lang['num_word_cents']    = 'Cent';
-$lang['number_word_and']   = 'And';
+$lang['number_word_and']   = 'und';
 // Show in invoices and estimates
 $lang['num_word'] = 'in Worten';
 $currencies       = [
